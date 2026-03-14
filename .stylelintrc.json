@@ -4,14 +4,7 @@
   "rules": {
     "indentation": 2,
     "color-hex-case": "lower",
-    "selector-class-pattern": "^[a-z][a-z0-9]*(-[a-z0-9]+)*$",
     "value-keyword-case": "lower",
-    "property-no-vendor-prefix": null,
-    "selector-pseudo-class-no-unknown": [
-      true,
-      {
-        "ignorePseudoClasses": ["deep", "global"]
-      }
-    ]
+    "property-no-vendor-prefix": null
   }
 }

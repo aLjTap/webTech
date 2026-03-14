@@ -5,21 +5,6 @@
     "html-has-doctype": true,
     "doctype-html5": true,
     "attr-spacing": true,
-    "class-naming": {
-      "value": "^[a-z][a-z0-9]*(-[a-z0-9]+)*$",
-      "options": {
-        "ignore": [
-          "navbar",
-          "nav-links",
-          "hero",
-          "profile-img",
-          "logo",
-          "tech-icon",
-          "container",
-          "section"
-        ]
-      }
-    },
     "indent": 2,
     "line-end-style": "lf",
     "no-duplicate-attr": true,
