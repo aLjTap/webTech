@@ -9,6 +9,11 @@
     "line-end-style": "lf",
     "no-duplicate-attr": true,
     "no-empty-title": true,
-    "no-target-blank": true
+    "no-target-blank": true,
+    "no-invalid-control-character": true,
+    "required-attr": [
+      { "name": "img", "attributes": ["alt"] }
+    ],
+    "required-h1": false
   }
 }
