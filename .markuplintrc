@@ -1,0 +1,20 @@
+{
+  "$schema": "https://markuplint.dev/schema/markuplint.schema.json",
+  "rules": {
+    "html-has-lang": true,
+    "html-has-doctype": true,
+    "doctype-html5": true,
+    "attr-spacing": true,
+    "class-naming": {
+      "value": "^[a-z][a-z0-9]*(-[a-z0-9]+)*$",
+      "options": {
+        "ignore": ["navbar", "nav-links", "hero", "profile-img"]
+      }
+    },
+    "indent": 2,
+    "line-end-style": "lf",
+    "no-duplicate-attr": true,
+    "no-empty-title": true,
+    "no-target-blank": true
+  }
+}
