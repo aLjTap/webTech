@@ -2,11 +2,10 @@
   "$schema": "https://json.schemastore.org/stylelintrc.json",
   "extends": "stylelint-config-standard",
   "rules": {
-    "indentation": 2,
-    "color-hex-case": "lower",
-    "value-keyword-case": "lower",
-    "shorthand-property-no-redundant-values": null,
-    "alpha-value-notation": null,
-    "no-descending-specificity": null
+    "indentation": null,
+    "color-hex-length": null,
+    "color-hex-case": null,
+    "color-function-notation": null,
+    "font-family-name-quotes": null
   }
 }
