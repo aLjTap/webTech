@@ -1,7 +1,6 @@
 {
-  "$schema": "https://markuplint.dev/schema/markuplint.schema.json",
+  "$schema": "https://raw.githubusercontent.com/markuplint/markuplint/main/packages/markuplint/src/schema.json",
   "rules": {
-    "landmark-has-lang": true,
     "html-has-lang": true,
     "html-has-doctype": true,
     "doctype-html5": true,
